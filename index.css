@@ -1,0 +1,50 @@
+body {
+  background-color: #333745;
+}
+
+.error {
+  color: #E63462;
+}
+
+.correct {
+  color: #C7EFCF;
+}
+
+p {
+  color: #7E86A0;
+  margin: 0px;
+  margin-left: 10px;
+}
+
+h2 {
+  color: #7E86A0;
+  margin-top: 0px;
+}
+
+h3 {
+  color: #7E86A0;
+  margin-top: 0px;
+}
+
+.frame {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  margin: 20px;
+  padding: 10px;
+}
+
+.dayFrame {
+  border: 5px solid #7E86A0;
+  background-color: #454B5E;
+}
+
+.resFrame {
+  border: 3px solid #7E86A0;
+  background-color: #333745;
+}
+
+#grind {
+  display: flex;
+  flex-wrap: wrap;
+}
